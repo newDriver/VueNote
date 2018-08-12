@@ -1,2 +1,2 @@
 # VueNote
-vue记录
+vue的一些记录
